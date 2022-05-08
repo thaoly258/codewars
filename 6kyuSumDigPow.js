@@ -1,4 +1,5 @@
-//Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!!
+//Take a Number And Sum Its Digits Raised To The Consecutive Powers And 
+//....¡Eureka!!
 
 function sumDigPow(a, b) {
     let res = []
