@@ -25,4 +25,5 @@ function primeFactors(n){
                obj[item] == 1 && (str += '('+ item +')')
                obj[item] > 1 && (str += '('+item +'**'+ obj[item]+')')
              }
-             return str;
+             return str
+            }
