@@ -21,4 +21,3 @@ function incrementString (strng) {
   
       return left + (+right + 1).toString().padStart(length, '0');
   }
-  
