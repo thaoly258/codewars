@@ -7,7 +7,7 @@
 //3 6 9
 //for given example, the return value should be: [[1,2,3],[2,4,6],[3,6,9]]
 
-function (size) {
+multiplication = function (size) {
     let res = []
     for(let i = 1; i<=size; i++){
       let x = []
