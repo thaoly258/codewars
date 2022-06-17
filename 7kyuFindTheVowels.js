@@ -23,3 +23,4 @@ function vowelIndices(word){
   
     return res
   }
+
