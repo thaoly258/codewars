@@ -27,3 +27,6 @@ function titleCase(title, minorWords) {
       return el
     }).join(' ');
   }
+
+
+  git clone https://github.com/alitahir4024/cv-generator-app-reactjs.git
