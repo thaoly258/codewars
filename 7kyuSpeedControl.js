@@ -27,4 +27,3 @@ function gps(s, x) {
    }
     return res[0]
   }
-  
