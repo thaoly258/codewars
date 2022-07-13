@@ -14,4 +14,5 @@ function isValidWalk(walk) {
       return false
       return upDown === 0 && leftRight === 0; 
   }
+
   
