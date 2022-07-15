@@ -19,4 +19,3 @@ function removeSmallest(numbers) {
     let arr = mutated.splice(min,1)
     return mutated
   }
-  
