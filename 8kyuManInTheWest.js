@@ -5,3 +5,5 @@
 function checkTheBucket(bucket){
     return bucket.includes('gold');
   }
+
+  function validateCode (code) {return /^[123]/.test(code)}
